@@ -18,7 +18,7 @@ const business: BusinessInfo = {
   name: "Max AC Services",
   owner: "Malang Ch.",
   phone: "+91 8108097837",
-  email: "maxacservices@example.com",
+  email: "maxacservices@gmail.com",
   address: "office no 3, Gauntam center, raut road, Thane East, Maharashtra, 400603",
   mapQuery: "Gauntam center, raut road, Thane East, Maharashtra, 400603",
 };
